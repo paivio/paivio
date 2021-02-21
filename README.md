@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, SQL and R.
+- 🌱 I’m currently learning Java, Python and SQL.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python, SQL and R.
+- 🌱 I’m currently learning Java, Python and SQL.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/p%C3%A4ivi-ojala-2111461a1/">LinkedIn</a>
 
 
